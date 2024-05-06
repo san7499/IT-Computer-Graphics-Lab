@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1713961420 source:c:\users\91749\desktop\cg simple code\flood_fill\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1706544638 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
